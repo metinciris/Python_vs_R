@@ -46,8 +46,8 @@ plt.show()
 ## 🧰 Setup and Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/python-vs-r-speed.git
-   cd python-vs-r-speed
+   git clone https://github.com/yourusername/Python_vs_R.git
+   cd Python_vs_R
    ```
 2. Install dependencies:
    ```bash
